@@ -7,3 +7,36 @@ footer
 	{
 		margin-top: 20px;
 	}
+
+image
+	{
+		border-radius: 30px;
+	}
+
+#Indice
+	{
+		font-family: Broadway;
+  		font-size: 26px;
+	}
+
+#Contenedor
+	{
+  		font-family: helvetica;
+  		font-size: 16px;
+	}
+
+#Encabezado
+	{
+  		display: block;
+  		margin: 0 auto;
+	}
+
+.itemIndice
+	{
+  		list-style-type: upper-roman;
+	}
+
+.enlace
+	{
+  		color: red;
+	}
