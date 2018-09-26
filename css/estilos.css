@@ -1,42 +1,34 @@
-body
+header
 	{
-		background-color: gray;	
+  		background-color: rgb(213, 156, 64);
+  		width: 100%;
+  		height: 120px;
+	}
+
+section Indice
+	{
+  		width: 100%;
+  		height: 400px;
+  		background-color: rgb(133, 195, 226);
+	}
+
+section Encabesado
+	{
+  		width: 20%;
+  		height: 400px;
+  		background-color: rgb(24, 128, 180);
+	}
+
+section Contenedor
+	{
+  		width: 80%;
+  		height: 400px;
+  		background-color: rgb(150, 185, 203);
 	}
 
 footer
 	{
-		margin-top: 20px;
-	}
-
-image
-	{
-		border-radius: 30px;
-	}
-
-#Indice
-	{
-		font-family: Broadway;
-  		font-size: 26px;
-	}
-
-#Contenedor
-	{
-  		font-family: helvetica;
-  		font-size: 16px;
-	}
-
-#Encabezado
-	{
-  		display: block;
-  		margin: 0 auto;
-	}
-
-.itemIndice
-	{
-  		list-style-type: upper-roman;
-	}
-
-.enlace
-	{
-  		color: red;
+  		height: 100px;
+  		width: 100%;
+  		background-color: rgb(218, 146, 29);
 	}
